@@ -50,4 +50,4 @@ The same service on Kubernetes, running on AWS EKS. The cluster, VPC and node gr
 
 ## Contact
 
-[alsoodanihamza6@gmail.com](mailto:alsoodanihamza6@gmail.com) | [hamza-alsoodani.com](https://hamza-alsoodani.com)
+[alsoodanihamza6@gmail.com](mailto:alsoodanihamza6@gmail.com)
