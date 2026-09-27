@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hamza Alsoodani</h1>
 
 <p align="center">DevOps Engineer | Platform Engineer | Cloud Engineer</p>
@@ -68,4 +67,3 @@ The same service on Kubernetes, running on AWS EKS. The cluster, VPC and node gr
 ## Contact
 
 [alsoodanihamza6@gmail.com](mailto:alsoodanihamza6@gmail.com)
-```
